@@ -1,0 +1,111 @@
+c:\users\casper\documents\visual studio 2015\Projects\Okul_Otomasyon\Okul_Otomasyon\bin\Debug\Okul_Otomasyon.exe.config
+c:\users\casper\documents\visual studio 2015\Projects\Okul_Otomasyon\Okul_Otomasyon\bin\Debug\Okul_Otomasyon.exe
+c:\users\casper\documents\visual studio 2015\Projects\Okul_Otomasyon\Okul_Otomasyon\bin\Debug\Okul_Otomasyon.pdb
+c:\users\casper\documents\visual studio 2015\Projects\Okul_Otomasyon\Okul_Otomasyon\bin\Debug\DevExpress.Data.v19.2.dll
+c:\users\casper\documents\visual studio 2015\Projects\Okul_Otomasyon\Okul_Otomasyon\bin\Debug\DevExpress.Utils.v19.2.dll
+c:\users\casper\documents\visual studio 2015\Projects\Okul_Otomasyon\Okul_Otomasyon\bin\Debug\DevExpress.XtraBars.v19.2.dll
+c:\users\casper\documents\visual studio 2015\Projects\Okul_Otomasyon\Okul_Otomasyon\bin\Debug\DevExpress.XtraEditors.v19.2.dll
+c:\users\casper\documents\visual studio 2015\Projects\Okul_Otomasyon\Okul_Otomasyon\bin\Debug\DevExpress.Printing.v19.2.Core.dll
+c:\users\casper\documents\visual studio 2015\Projects\Okul_Otomasyon\Okul_Otomasyon\bin\Debug\DevExpress.Sparkline.v19.2.Core.dll
+c:\users\casper\documents\visual studio 2015\Projects\Okul_Otomasyon\Okul_Otomasyon\bin\Debug\DevExpress.Pdf.v19.2.Core.dll
+c:\users\casper\documents\visual studio 2015\Projects\Okul_Otomasyon\Okul_Otomasyon\bin\Debug\DevExpress.Data.v19.2.xml
+c:\users\casper\documents\visual studio 2015\Projects\Okul_Otomasyon\Okul_Otomasyon\bin\Debug\DevExpress.Utils.v19.2.xml
+c:\users\casper\documents\visual studio 2015\Projects\Okul_Otomasyon\Okul_Otomasyon\bin\Debug\DevExpress.XtraBars.v19.2.xml
+c:\users\casper\documents\visual studio 2015\Projects\Okul_Otomasyon\Okul_Otomasyon\bin\Debug\DevExpress.XtraEditors.v19.2.xml
+c:\users\casper\documents\visual studio 2015\Projects\Okul_Otomasyon\Okul_Otomasyon\bin\Debug\DevExpress.Printing.v19.2.Core.xml
+c:\users\casper\documents\visual studio 2015\Projects\Okul_Otomasyon\Okul_Otomasyon\bin\Debug\DevExpress.Sparkline.v19.2.Core.xml
+c:\users\casper\documents\visual studio 2015\Projects\Okul_Otomasyon\Okul_Otomasyon\bin\Debug\DevExpress.Pdf.v19.2.Core.xml
+c:\users\casper\documents\visual studio 2015\Projects\Okul_Otomasyon\Okul_Otomasyon\bin\Debug\de\DevExpress.Data.v19.2.resources.dll
+c:\users\casper\documents\visual studio 2015\Projects\Okul_Otomasyon\Okul_Otomasyon\bin\Debug\es\DevExpress.Data.v19.2.resources.dll
+c:\users\casper\documents\visual studio 2015\Projects\Okul_Otomasyon\Okul_Otomasyon\bin\Debug\ja\DevExpress.Data.v19.2.resources.dll
+c:\users\casper\documents\visual studio 2015\Projects\Okul_Otomasyon\Okul_Otomasyon\bin\Debug\ru\DevExpress.Data.v19.2.resources.dll
+c:\users\casper\documents\visual studio 2015\Projects\Okul_Otomasyon\Okul_Otomasyon\bin\Debug\de\DevExpress.Utils.v19.2.resources.dll
+c:\users\casper\documents\visual studio 2015\Projects\Okul_Otomasyon\Okul_Otomasyon\bin\Debug\es\DevExpress.Utils.v19.2.resources.dll
+c:\users\casper\documents\visual studio 2015\Projects\Okul_Otomasyon\Okul_Otomasyon\bin\Debug\ja\DevExpress.Utils.v19.2.resources.dll
+c:\users\casper\documents\visual studio 2015\Projects\Okul_Otomasyon\Okul_Otomasyon\bin\Debug\ru\DevExpress.Utils.v19.2.resources.dll
+c:\users\casper\documents\visual studio 2015\Projects\Okul_Otomasyon\Okul_Otomasyon\bin\Debug\de\DevExpress.XtraBars.v19.2.resources.dll
+c:\users\casper\documents\visual studio 2015\Projects\Okul_Otomasyon\Okul_Otomasyon\bin\Debug\es\DevExpress.XtraBars.v19.2.resources.dll
+c:\users\casper\documents\visual studio 2015\Projects\Okul_Otomasyon\Okul_Otomasyon\bin\Debug\ja\DevExpress.XtraBars.v19.2.resources.dll
+c:\users\casper\documents\visual studio 2015\Projects\Okul_Otomasyon\Okul_Otomasyon\bin\Debug\ru\DevExpress.XtraBars.v19.2.resources.dll
+c:\users\casper\documents\visual studio 2015\Projects\Okul_Otomasyon\Okul_Otomasyon\bin\Debug\de\DevExpress.XtraEditors.v19.2.resources.dll
+c:\users\casper\documents\visual studio 2015\Projects\Okul_Otomasyon\Okul_Otomasyon\bin\Debug\es\DevExpress.XtraEditors.v19.2.resources.dll
+c:\users\casper\documents\visual studio 2015\Projects\Okul_Otomasyon\Okul_Otomasyon\bin\Debug\ja\DevExpress.XtraEditors.v19.2.resources.dll
+c:\users\casper\documents\visual studio 2015\Projects\Okul_Otomasyon\Okul_Otomasyon\bin\Debug\ru\DevExpress.XtraEditors.v19.2.resources.dll
+c:\users\casper\documents\visual studio 2015\Projects\Okul_Otomasyon\Okul_Otomasyon\bin\Debug\de\DevExpress.Printing.v19.2.Core.resources.dll
+c:\users\casper\documents\visual studio 2015\Projects\Okul_Otomasyon\Okul_Otomasyon\bin\Debug\es\DevExpress.Printing.v19.2.Core.resources.dll
+c:\users\casper\documents\visual studio 2015\Projects\Okul_Otomasyon\Okul_Otomasyon\bin\Debug\ja\DevExpress.Printing.v19.2.Core.resources.dll
+c:\users\casper\documents\visual studio 2015\Projects\Okul_Otomasyon\Okul_Otomasyon\bin\Debug\ru\DevExpress.Printing.v19.2.Core.resources.dll
+c:\users\casper\documents\visual studio 2015\Projects\Okul_Otomasyon\Okul_Otomasyon\bin\Debug\de\DevExpress.Sparkline.v19.2.Core.resources.dll
+c:\users\casper\documents\visual studio 2015\Projects\Okul_Otomasyon\Okul_Otomasyon\bin\Debug\es\DevExpress.Sparkline.v19.2.Core.resources.dll
+c:\users\casper\documents\visual studio 2015\Projects\Okul_Otomasyon\Okul_Otomasyon\bin\Debug\ja\DevExpress.Sparkline.v19.2.Core.resources.dll
+c:\users\casper\documents\visual studio 2015\Projects\Okul_Otomasyon\Okul_Otomasyon\bin\Debug\ru\DevExpress.Sparkline.v19.2.Core.resources.dll
+c:\users\casper\documents\visual studio 2015\Projects\Okul_Otomasyon\Okul_Otomasyon\bin\Debug\de\DevExpress.Pdf.v19.2.Core.resources.dll
+c:\users\casper\documents\visual studio 2015\Projects\Okul_Otomasyon\Okul_Otomasyon\bin\Debug\es\DevExpress.Pdf.v19.2.Core.resources.dll
+c:\users\casper\documents\visual studio 2015\Projects\Okul_Otomasyon\Okul_Otomasyon\bin\Debug\ja\DevExpress.Pdf.v19.2.Core.resources.dll
+c:\users\casper\documents\visual studio 2015\Projects\Okul_Otomasyon\Okul_Otomasyon\bin\Debug\ru\DevExpress.Pdf.v19.2.Core.resources.dll
+c:\users\casper\documents\visual studio 2015\Projects\Okul_Otomasyon\Okul_Otomasyon\obj\Debug\Okul_Otomasyon.csprojResolveAssemblyReference.cache
+c:\users\casper\documents\visual studio 2015\Projects\Okul_Otomasyon\Okul_Otomasyon\obj\Debug\Okul_Otomasyon.Properties.Resources.resources
+c:\users\casper\documents\visual studio 2015\Projects\Okul_Otomasyon\Okul_Otomasyon\obj\Debug\Okul_Otomasyon.csproj.GenerateResource.Cache
+c:\users\casper\documents\visual studio 2015\Projects\Okul_Otomasyon\Okul_Otomasyon\obj\Debug\Okul_Otomasyon.exe.licenses
+c:\users\casper\documents\visual studio 2015\Projects\Okul_Otomasyon\Okul_Otomasyon\obj\Debug\Okul_Otomasyon.exe
+c:\users\casper\documents\visual studio 2015\Projects\Okul_Otomasyon\Okul_Otomasyon\obj\Debug\Okul_Otomasyon.pdb
+C:\Users\CASPER\documents\visual studio 2015\Projects\Okul_Otomasyon\Okul_Otomasyon\obj\Debug\Okul_Otomasyon.anamodul.resources
+C:\Users\CASPER\documents\visual studio 2015\Projects\Okul_Otomasyon\Okul_Otomasyon\obj\Debug\Okul_Otomasyon.ogretmenler.resources
+C:\Users\CASPER\documents\visual studio 2015\Projects\Okul_Otomasyon\Okul_Otomasyon\bin\Debug\DevExpress.XtraGrid.v19.2.dll
+C:\Users\CASPER\documents\visual studio 2015\Projects\Okul_Otomasyon\Okul_Otomasyon\bin\Debug\DevExpress.XtraLayout.v19.2.dll
+C:\Users\CASPER\documents\visual studio 2015\Projects\Okul_Otomasyon\Okul_Otomasyon\bin\Debug\DevExpress.XtraPrinting.v19.2.dll
+C:\Users\CASPER\documents\visual studio 2015\Projects\Okul_Otomasyon\Okul_Otomasyon\bin\Debug\DevExpress.RichEdit.v19.2.Core.dll
+C:\Users\CASPER\documents\visual studio 2015\Projects\Okul_Otomasyon\Okul_Otomasyon\bin\Debug\DevExpress.XtraTreeList.v19.2.dll
+C:\Users\CASPER\documents\visual studio 2015\Projects\Okul_Otomasyon\Okul_Otomasyon\bin\Debug\DevExpress.Office.v19.2.Core.dll
+C:\Users\CASPER\documents\visual studio 2015\Projects\Okul_Otomasyon\Okul_Otomasyon\bin\Debug\DevExpress.Images.v19.2.dll
+C:\Users\CASPER\documents\visual studio 2015\Projects\Okul_Otomasyon\Okul_Otomasyon\bin\Debug\DevExpress.XtraGrid.v19.2.xml
+C:\Users\CASPER\documents\visual studio 2015\Projects\Okul_Otomasyon\Okul_Otomasyon\bin\Debug\DevExpress.XtraLayout.v19.2.xml
+C:\Users\CASPER\documents\visual studio 2015\Projects\Okul_Otomasyon\Okul_Otomasyon\bin\Debug\DevExpress.XtraPrinting.v19.2.xml
+C:\Users\CASPER\documents\visual studio 2015\Projects\Okul_Otomasyon\Okul_Otomasyon\bin\Debug\DevExpress.RichEdit.v19.2.Core.xml
+C:\Users\CASPER\documents\visual studio 2015\Projects\Okul_Otomasyon\Okul_Otomasyon\bin\Debug\DevExpress.XtraTreeList.v19.2.xml
+C:\Users\CASPER\documents\visual studio 2015\Projects\Okul_Otomasyon\Okul_Otomasyon\bin\Debug\DevExpress.Office.v19.2.Core.xml
+C:\Users\CASPER\documents\visual studio 2015\Projects\Okul_Otomasyon\Okul_Otomasyon\bin\Debug\de\DevExpress.XtraGrid.v19.2.resources.dll
+C:\Users\CASPER\documents\visual studio 2015\Projects\Okul_Otomasyon\Okul_Otomasyon\bin\Debug\es\DevExpress.XtraGrid.v19.2.resources.dll
+C:\Users\CASPER\documents\visual studio 2015\Projects\Okul_Otomasyon\Okul_Otomasyon\bin\Debug\ja\DevExpress.XtraGrid.v19.2.resources.dll
+C:\Users\CASPER\documents\visual studio 2015\Projects\Okul_Otomasyon\Okul_Otomasyon\bin\Debug\ru\DevExpress.XtraGrid.v19.2.resources.dll
+C:\Users\CASPER\documents\visual studio 2015\Projects\Okul_Otomasyon\Okul_Otomasyon\bin\Debug\de\DevExpress.XtraLayout.v19.2.resources.dll
+C:\Users\CASPER\documents\visual studio 2015\Projects\Okul_Otomasyon\Okul_Otomasyon\bin\Debug\es\DevExpress.XtraLayout.v19.2.resources.dll
+C:\Users\CASPER\documents\visual studio 2015\Projects\Okul_Otomasyon\Okul_Otomasyon\bin\Debug\ja\DevExpress.XtraLayout.v19.2.resources.dll
+C:\Users\CASPER\documents\visual studio 2015\Projects\Okul_Otomasyon\Okul_Otomasyon\bin\Debug\ru\DevExpress.XtraLayout.v19.2.resources.dll
+C:\Users\CASPER\documents\visual studio 2015\Projects\Okul_Otomasyon\Okul_Otomasyon\bin\Debug\de\DevExpress.XtraPrinting.v19.2.resources.dll
+C:\Users\CASPER\documents\visual studio 2015\Projects\Okul_Otomasyon\Okul_Otomasyon\bin\Debug\es\DevExpress.XtraPrinting.v19.2.resources.dll
+C:\Users\CASPER\documents\visual studio 2015\Projects\Okul_Otomasyon\Okul_Otomasyon\bin\Debug\ja\DevExpress.XtraPrinting.v19.2.resources.dll
+C:\Users\CASPER\documents\visual studio 2015\Projects\Okul_Otomasyon\Okul_Otomasyon\bin\Debug\ru\DevExpress.XtraPrinting.v19.2.resources.dll
+C:\Users\CASPER\documents\visual studio 2015\Projects\Okul_Otomasyon\Okul_Otomasyon\bin\Debug\de\DevExpress.RichEdit.v19.2.Core.resources.dll
+C:\Users\CASPER\documents\visual studio 2015\Projects\Okul_Otomasyon\Okul_Otomasyon\bin\Debug\es\DevExpress.RichEdit.v19.2.Core.resources.dll
+C:\Users\CASPER\documents\visual studio 2015\Projects\Okul_Otomasyon\Okul_Otomasyon\bin\Debug\ja\DevExpress.RichEdit.v19.2.Core.resources.dll
+C:\Users\CASPER\documents\visual studio 2015\Projects\Okul_Otomasyon\Okul_Otomasyon\bin\Debug\ru\DevExpress.RichEdit.v19.2.Core.resources.dll
+C:\Users\CASPER\documents\visual studio 2015\Projects\Okul_Otomasyon\Okul_Otomasyon\bin\Debug\de\DevExpress.XtraTreeList.v19.2.resources.dll
+C:\Users\CASPER\documents\visual studio 2015\Projects\Okul_Otomasyon\Okul_Otomasyon\bin\Debug\es\DevExpress.XtraTreeList.v19.2.resources.dll
+C:\Users\CASPER\documents\visual studio 2015\Projects\Okul_Otomasyon\Okul_Otomasyon\bin\Debug\ja\DevExpress.XtraTreeList.v19.2.resources.dll
+C:\Users\CASPER\documents\visual studio 2015\Projects\Okul_Otomasyon\Okul_Otomasyon\bin\Debug\ru\DevExpress.XtraTreeList.v19.2.resources.dll
+C:\Users\CASPER\documents\visual studio 2015\Projects\Okul_Otomasyon\Okul_Otomasyon\bin\Debug\de\DevExpress.Office.v19.2.Core.resources.dll
+C:\Users\CASPER\documents\visual studio 2015\Projects\Okul_Otomasyon\Okul_Otomasyon\bin\Debug\es\DevExpress.Office.v19.2.Core.resources.dll
+C:\Users\CASPER\documents\visual studio 2015\Projects\Okul_Otomasyon\Okul_Otomasyon\bin\Debug\ja\DevExpress.Office.v19.2.Core.resources.dll
+C:\Users\CASPER\documents\visual studio 2015\Projects\Okul_Otomasyon\Okul_Otomasyon\bin\Debug\ru\DevExpress.Office.v19.2.Core.resources.dll
+C:\Users\CASPER\documents\visual studio 2015\Projects\Okul_Otomasyon\Okul_Otomasyon\obj\Debug\Okul_Otomasyon.nufuscuzdani.resources
+C:\Users\CASPER\documents\visual studio 2015\Projects\Okul_Otomasyon\Okul_Otomasyon\obj\Debug\Okul_Otomasyon.ogrenciler.resources
+C:\Users\CASPER\documents\visual studio 2015\Projects\Okul_Otomasyon\Okul_Otomasyon\bin\Debug\EntityFramework.dll
+C:\Users\CASPER\documents\visual studio 2015\Projects\Okul_Otomasyon\Okul_Otomasyon\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\CASPER\documents\visual studio 2015\Projects\Okul_Otomasyon\Okul_Otomasyon\bin\Debug\EntityFramework.xml
+C:\Users\CASPER\documents\visual studio 2015\Projects\Okul_Otomasyon\Okul_Otomasyon\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\CASPER\documents\visual studio 2015\Projects\Okul_Otomasyon\Okul_Otomasyon\obj\Debug\Okul_Otomasyon.Velile.resources
+C:\Users\CASPER\documents\visual studio 2015\Projects\Okul_Otomasyon\Okul_Otomasyon\obj\Debug\Okul_Otomasyon.Ayarlar.resources
+F:\ALİŞİN\Okul_Otomasyon\Okul_Otomasyon\bin\Debug\Okul_Otomasyon.exe.config
+F:\ALİŞİN\Okul_Otomasyon\Okul_Otomasyon\obj\Debug\Okul_Otomasyon.exe
+F:\ALİŞİN\Okul_Otomasyon\Okul_Otomasyon\obj\Debug\Okul_Otomasyon.pdb
+F:\ALİŞİN\Okul_Otomasyon\Okul_Otomasyon\obj\Debug\Okul_Otomasyon.csprojResolveAssemblyReference.cache
+F:\ALİŞİN\Okul_Otomasyon\Okul_Otomasyon\obj\Debug\Okul_Otomasyon.anamodul.resources
+F:\ALİŞİN\Okul_Otomasyon\Okul_Otomasyon\obj\Debug\Okul_Otomasyon.Ayarlar.resources
+F:\ALİŞİN\Okul_Otomasyon\Okul_Otomasyon\obj\Debug\Okul_Otomasyon.nufuscuzdani.resources
+F:\ALİŞİN\Okul_Otomasyon\Okul_Otomasyon\obj\Debug\Okul_Otomasyon.ogrenciler.resources
+F:\ALİŞİN\Okul_Otomasyon\Okul_Otomasyon\obj\Debug\Okul_Otomasyon.ogretmenler.resources
+F:\ALİŞİN\Okul_Otomasyon\Okul_Otomasyon\obj\Debug\Okul_Otomasyon.Properties.Resources.resources
+F:\ALİŞİN\Okul_Otomasyon\Okul_Otomasyon\obj\Debug\Okul_Otomasyon.Velile.resources
+F:\ALİŞİN\Okul_Otomasyon\Okul_Otomasyon\obj\Debug\Okul_Otomasyon.csproj.GenerateResource.Cache
+F:\ALİŞİN\Okul_Otomasyon\Okul_Otomasyon\obj\Debug\Okul_Otomasyon.exe.licenses

@@ -1,0 +1,107 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="dbo.OkulotomasyonModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="ilceler">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" />
+    <Property Name="ilce" Type="String" MaxLength="255" FixedLength="false" Unicode="true" />
+    <Property Name="sehir" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+  </EntityType>
+  <EntityType Name="iller">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="sehir" Type="String" MaxLength="255" FixedLength="false" Unicode="true" />
+  </EntityType>
+  <EntityType Name="sysdiagrams">
+    <Key>
+      <PropertyRef Name="diagram_id" />
+    </Key>
+    <Property Name="name" Type="String" MaxLength="128" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="principal_id" Type="Int32" Nullable="false" />
+    <Property Name="diagram_id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="version" Type="Int32" />
+    <Property Name="definition" Type="Binary" MaxLength="Max" FixedLength="false" />
+  </EntityType>
+  <EntityType Name="tbl_brans">
+    <Key>
+      <PropertyRef Name="bransid" />
+    </Key>
+    <Property Name="bransid" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="bransad" Type="String" MaxLength="100" FixedLength="false" Unicode="true" />
+  </EntityType>
+  <EntityType Name="tbl_ogrenciler">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="ad" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="no" Type="String" MaxLength="10" FixedLength="true" Unicode="false" />
+    <Property Name="sinif" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="dotar" Type="String" MaxLength="10" FixedLength="true" Unicode="false" />
+    <Property Name="cinsiyet" Type="String" MaxLength="1" FixedLength="true" Unicode="false" />
+    <Property Name="soyad" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="tc" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="veliid" Type="Int32" />
+    <Property Name="il" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="ilce" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="adres" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="foto" Type="String" MaxLength="500" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="veliler" Relationship="Self.FK_tbl_ogrenciler_veliler" FromRole="tbl_ogrenciler" ToRole="veliler" />
+  </EntityType>
+  <EntityType Name="tbl_ogretmenler">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="ad" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="soyad" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="tc" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="tel" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="mail" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="il" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="ilce" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="adres" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="brans" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="foto" Type="String" MaxLength="500" FixedLength="false" Unicode="true" />
+  </EntityType>
+  <EntityType Name="veliler">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="anne" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="baba" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="tel1" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="tel2" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="mail" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="tbl_ogrenciler" Relationship="Self.FK_tbl_ogrenciler_veliler" FromRole="veliler" ToRole="tbl_ogrenciler" />
+  </EntityType>
+  <Association Name="FK_tbl_ogrenciler_veliler">
+    <End Role="veliler" Type="Self.veliler" Multiplicity="0..1" />
+    <End Role="tbl_ogrenciler" Type="Self.tbl_ogrenciler" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="veliler">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="tbl_ogrenciler">
+        <PropertyRef Name="veliid" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="DbOkulEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="ilceler" EntityType="Self.ilceler" />
+    <EntitySet Name="iller" EntityType="Self.iller" />
+    <EntitySet Name="sysdiagrams" EntityType="Self.sysdiagrams" />
+    <EntitySet Name="tbl_brans" EntityType="Self.tbl_brans" />
+    <EntitySet Name="tbl_ogrenciler" EntityType="Self.tbl_ogrenciler" />
+    <EntitySet Name="tbl_ogretmenler" EntityType="Self.tbl_ogretmenler" />
+    <EntitySet Name="veliler" EntityType="Self.veliler" />
+    <AssociationSet Name="FK_tbl_ogrenciler_veliler" Association="Self.FK_tbl_ogrenciler_veliler">
+      <End Role="veliler" EntitySet="veliler" />
+      <End Role="tbl_ogrenciler" EntitySet="tbl_ogrenciler" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>
